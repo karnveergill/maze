@@ -15,6 +15,6 @@ public:
     ~Maze() {}
 
 private:
-}
+};
 
 #endif // MAZE_H
